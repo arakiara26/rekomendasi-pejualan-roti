@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn
+association_rules
+apriori
+ast
+streamlit==1.36.0
