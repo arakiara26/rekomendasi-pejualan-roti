@@ -1,7 +1,6 @@
 numpy
 pandas
 scikit-learn
-association_rules
-apriori
+mlxtend
 ast
 streamlit
